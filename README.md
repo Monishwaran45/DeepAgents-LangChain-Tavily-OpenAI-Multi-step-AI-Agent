@@ -1,10 +1,10 @@
-# 🚀 Deep Research Multi-Agent Team
+#  Deep Research Multi-Agent Team
 
 An advanced, autonomous **Collaborative Multi-Agent Research System** powered by ultra-fast **Groq LPU** inference, real-time **Tavily Web Search**, **Specialized Open-Source Agent Roles**, **Hierarchical Memory Management**, **Intelligent Context Budgeting**, and a **Self-Correction Fact-Checking Loop** for high factual accuracy and cited reports.
 
 ---
 
-## 🧠 Multi-Agent Collaboration Architecture
+##  Multi-Agent Collaboration Architecture
 
 ```mermaid
 flowchart TD
@@ -36,7 +36,7 @@ flowchart TD
 
 ---
 
-## 👥 The Specialized Multi-Agent Team
+##  The Specialized Multi-Agent Team
 
 1. **`PlannerAgent` (Lead Strategist)**: Deconstructs user intent into temporal, technical, and comparative dimensions. Generates 3-5 keyword-dense search queries targeting architecture, benchmarks, recent updates, and known limitations.
 2. **`WebScoutAgent` (Information Retrieval Specialist)**: Executes multi-angle Tavily searches, deduplicates identical syndicated pages, scores semantic relevance, and dynamically budgets tokens.
@@ -75,7 +75,7 @@ flowchart TD
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 DeepAgents-LangChain-Tavily-OpenAI-Multi-step-AI-Agent/
@@ -100,7 +100,7 @@ DeepAgents-LangChain-Tavily-OpenAI-Multi-step-AI-Agent/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Configure Environment Variables
 
@@ -161,7 +161,7 @@ python main.py -q "What are the latest breakthroughs in solid-state batteries in
 
 ---
 
-## 🧪 Programmatic Usage
+##  Programmatic Usage
 
 You can easily embed `DeepResearchAgent` into any Python script or notebook:
 
